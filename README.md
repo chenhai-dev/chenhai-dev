@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I am a **Project Lead and Support Lead** at **:contentReference[oaicite:0]{index=0}**, currently outsourced to **:contentReference[oaicite:1]{index=1}** as a **Technical Support professional**.
+I am a **Project Lead and Support Lead** at **ADITI - Asia Digital Technology Innovation** , currently outsourced to **Manualife Cambodia** as a **Technical Support professional**.
 
 I bring strong experience in **enterprise application support, incident management, and cross-team coordination**, ensuring system stability and high service quality for business-critical platforms. I thrive in fast-paced environments where reliability, communication, and ownership matter.
 
