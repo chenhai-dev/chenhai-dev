@@ -52,8 +52,8 @@ I bring strong experience in **enterprise application support, incident manageme
 
 ## 🤝 Let’s Connect
 
-- 💼 LinkedIn: [LinkedIn URL]
-- 📫 Email: [your@email.com]
+- 💼 LinkedIn: https://www.linkedin.com/in/trychenhai/
+- 📫 Email: chenhaitry64@gmail.com
 
 ---
 
