@@ -1,60 +1,116 @@
-# 👋 Hi, I'm Chemhai
+# 👋 Hi, I'm Try Chenhai
 
-**Project Lead | Support Lead | Technical Support Specialist**  
-📍 Phnom Penh, Cambodia • 💼 [LinkedIn](https://www.linkedin.com/in/trychenhai/) • 📫 chenhaitry64@gmail.com
+**Project Lead | Support Lead | Technical Support | Web Developer**  
+📍 Phnom Penh, Cambodia  
+📫 chenhaitry64@gmail.com • 💼 [[TRY CHENHAI]](https://www.linkedin.com/in/trychenhai/)
 
 ---
 
 ## 🚀 About Me
 
-I am a **Project Lead and Support Lead** at **ADITI - Asia Digital Technology Innovation** , currently outsourced to **Manualife Cambodia** as a **Technical Support professional**.
+I am a **Project Lead and Support Lead** at **:contentReference[oaicite:1]{index=1}**, currently outsourced to **:contentReference[oaicite:2]{index=2}** as a **Technical Support professional**.
 
-I bring strong experience in **enterprise application support, incident management, and cross-team coordination**, ensuring system stability and high service quality for business-critical platforms. I thrive in fast-paced environments where reliability, communication, and ownership matter.
+I have **3+ years of experience** combining **project leadership, enterprise production support, and web development**. I work closely with business stakeholders, developers, and infrastructure teams to ensure **system stability, SLA compliance, and successful project delivery** in financial services environments.
+
+I am hands-on when needed, comfortable leading teams, and committed to delivering high-quality, reliable systems.
 
 ---
 
-## 💼 Professional Experience
+## 💼 Current Role
 
 ### **Project Lead & Support Lead**  
-**Aditi Consulting**  
-*Client: Manulife*
+**ADITI - Asia Digital Technology Innovation** | *Client: Manulife Cambodia*  
+*Dec 2022 – Present*
 
-**Key Responsibilities:**
-- Led day-to-day **production support operations** for enterprise systems
-- Acted as **primary escalation point** for critical incidents and outages
-- Coordinated with **development, infrastructure, and business teams** to resolve issues efficiently
-- Managed **incident, problem, and change processes** following ITIL best practices
-- Provided **technical guidance and mentorship** to support team members
-- Ensured **SLA compliance**, root cause analysis, and continuous service improvement
-- Delivered clear **status updates and reports** to stakeholders and leadership
+**Leadership & Project Responsibilities**
+- Planned, executed, and controlled projects in line with scope, budget, and timelines
+- Led and mentored engineers and support team members
+- Created standards, checklists, reports, and operational processes
+- Monitored project performance and mitigated risks proactively
+- Coordinated stakeholders and facilitated regular status meetings
 
----
-
-## 🛠️ Core Skills
-
-- Technical Support & Troubleshooting  
-- Incident & Problem Management (ITIL)  
-- Production Support  
-- Stakeholder Communication  
-- Team Leadership & Coordination  
-- Root Cause Analysis (RCA)  
-- Documentation & Knowledge Management  
+**Technical Support Responsibilities**
+- Served as escalation point for **production incidents and outages**
+- Investigated and resolved application, database, and system issues
+- Performed root cause analysis (RCA) and preventive actions
+- Collaborated with vendors and internal teams on complex issues
+- Ensured SLA adherence and high customer satisfaction
+- Supported after-hours and weekend incidents when required
 
 ---
 
-## 🏢 Domain Experience
+## 🛠️ Current Technical Skills & Tools
 
-- Financial Services & Insurance Systems  
-- Enterprise Applications  
-- Business-Critical Production Environments  
+**Programming & Frameworks**
+- PHP (Laravel)
+- JavaScript (VueJS, NuxtJS, React)
+- NodeJS
+- Java & Spring Boot
+- C#
+
+**Databases**
+- SQL / NoSQL
+- Database Design & Management
+
+**Systems & Operations**
+- Production Support & Troubleshooting
+- System & Server Administration
+- Backup & Recovery Procedures
+- CI/CD Monitoring
+- Automation & Scripting
+
+**Professional Skills**
+- Incident & Problem Management (ITIL-aligned)
+- Business & Technical Analysis
+- Stakeholder Communication
+- Documentation & Reporting
+- Team Leadership & Mentoring
+
+---
+
+## 🧑‍💻 Previous Experience
+
+### **Web Developer**  
+**CamSolution**, Phnom Penh  
+*Aug 2019 – Aug 2023*
+
+- Developed and maintained full-stack web applications
+- Built backend systems using PHP (Laravel), NodeJS, SQL/NoSQL
+- Developed frontend using VueJS, NuxtJS, React, JavaScript
+- Designed databases and server-side architecture
+- Used Docker and microservices-based deployment
+- Collaborated with clients from requirements to production delivery
+
+---
+
+## 📌 Project Experience
+
+- **E-Commerce Platform (B2B & B2C)**  
+  Multi-store, inventory, warehouse, and order management system
+
+- **POS System**  
+  Retail sales, customer tracking, and basic stock management
+
+- **Money Exchange System**  
+  Multi-currency exchange rate and transaction management
+
+- **Website Development**  
+  Portfolio and news websites with responsive UI/UX
+
+---
+
+## 🎓 Education
+
+**Bachelor of Science – Computer Science & Programming**  
+Royal University of Phnom Penh
 
 ---
 
 ## 🤝 Let’s Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/trychenhai/
+- 💼 LinkedIn: [[LinkedIn URL](https://www.linkedin.com/in/trychenhai/)]
 - 📫 Email: chenhaitry64@gmail.com
 
 ---
 
-⭐️ *Always open to collaboration, learning, and solving complex production challenges.*
+⭐️ *Focused on reliability, leadership, and continuous improvement in enterprise environments.*
