@@ -22,64 +22,60 @@ I am hands-on when needed, comfortable leading teams, and committed to deliverin
 **ADITI - Asia Digital Technology Innovation** | *Client: Manulife Cambodia*  
 *Dec 2022 – Present*
 
-**Leadership & Project Responsibilities**
-- Planned, executed, and controlled projects in line with scope, budget, and timelines
-- Led and mentored engineers and support team members
-- Created standards, checklists, reports, and operational processes
-- Monitored project performance and mitigated risks proactively
-- Coordinated stakeholders and facilitated regular status meetings
+**Leadership & Delivery**
+- Lead day-to-day **production support operations** for enterprise applications
+- Own **incident, problem, and change management** processes (ITIL-aligned)
+- Act as **primary escalation point** for high-severity incidents and outages
+- Drive root cause analysis (RCA) and implement preventive actions
+- Mentor and guide engineers to improve response quality and consistency
+- Partner with stakeholders to align technical delivery with business priorities
 
-**Technical Support Responsibilities**
-- Served as escalation point for **production incidents and outages**
-- Investigated and resolved application, database, and system issues
-- Performed root cause analysis (RCA) and preventive actions
-- Collaborated with vendors and internal teams on complex issues
-- Ensured SLA adherence and high customer satisfaction
-- Supported after-hours and weekend incidents when required
+**Technical & Operational Excellence**
+- Diagnose and resolve issues across applications, databases, and systems
+- Monitor system health, automated builds, and CI/CD pipelines
+- Implement backup, recovery, and operational automation procedures
+- Collaborate with vendors and internal teams to resolve complex technical problems
+- Maintain operational documentation, reports, and knowledge bases
+- Support after-hours and weekend incidents when required
 
 ---
 
-## 🛠️ Current Technical Skills & Tools
+## 🛠️ Technical Expertise
 
-**Programming & Frameworks**
+**Application & Backend**
 - PHP (Laravel)
 - JavaScript (VueJS, NuxtJS, React)
 - NodeJS
 - Java & Spring Boot
 - C#
 
-**Databases**
-- SQL / NoSQL
-- Database Design & Management
+**Databases & Infrastructure**
+- SQL / NoSQL databases
+- Database design, security, and performance tuning
+- System & server administration
 
-**Systems & Operations**
-- Production Support & Troubleshooting
-- System & Server Administration
-- Backup & Recovery Procedures
-- CI/CD Monitoring
-- Automation & Scripting
-
-**Professional Skills**
-- Incident & Problem Management (ITIL-aligned)
-- Business & Technical Analysis
+**Support & Delivery Practices**
+- Enterprise Production Support
+- Incident, Problem & Change Management
+- SLA & KPI Management
+- Root Cause Analysis (RCA)
+- Automation & Monitoring
 - Stakeholder Communication
-- Documentation & Reporting
-- Team Leadership & Mentoring
 
 ---
 
-## 🧑‍💻 Previous Experience
+## 🧑‍💻 Prior Experience
 
 ### **Web Developer**  
 **CamSolution**, Phnom Penh  
 *Aug 2019 – Aug 2023*
 
-- Developed and maintained full-stack web applications
-- Built backend systems using PHP (Laravel), NodeJS, SQL/NoSQL
-- Developed frontend using VueJS, NuxtJS, React, JavaScript
-- Designed databases and server-side architecture
-- Used Docker and microservices-based deployment
-- Collaborated with clients from requirements to production delivery
+- Delivered full-stack web solutions aligned with business requirements
+- Developed backend systems using Laravel, NodeJS, and SQL/NoSQL
+- Built modern frontend applications using VueJS, NuxtJS, and React
+- Designed scalable databases and server-side architecture
+- Implemented Docker-based microservices deployments
+- Collaborated directly with clients from planning through production
 
 ---
 
